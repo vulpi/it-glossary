@@ -23,6 +23,7 @@ O material será subdividido em três níveis.
 - Dev -  Desenvolvedor
 - HTML - Hypertext Markup Language (linguagem de marcação de hipertexto)
 - IA - Intelligent Artificial (inteligência artificial)
+- IoT - Internet of Things (internet das coisas)
 - JS - JavaScript 
 - LESS - Leaner Style Sheets (linguagem de folhas de estilo dinâmica)
 - Lib - Library (biblioteca)
@@ -124,6 +125,9 @@ O material será subdividido em três níveis.
 **F#** -  é uma linguagem de programação funcional de plataforma aberta, código aberto para .NET. Ele também inclui programação orientada a objetos e imperativa.
 
 **Java** - é uma tecnologia usada para desenvolver aplicações que tornam a Web mais divertida e útil.
+
+**R** - é uma lingauem de programação voltada a análise, visualização e manipulação de dados.
+
  #### **Frameworks Java**
   
 - **Struts (J2EE)** - um dos frameworks mais usados em ambientes corporativos para construção de aplicações web. Usa o modelo MVC e caracterizado por uma camada de controle com uso de J2EE e XML.
