@@ -26,6 +26,7 @@ O material será subdividido em três níveis.
 - JS - JavaScript 
 - LESS - Leaner Style Sheets (linguagem de folhas de estilo dinâmica)
 - Lib - Library (biblioteca)
+- MVP - Minimum Viable Product (Produto Minimamente Viável), conceito da metodologia Ágil
 - OOP - Object-oriented programming (programação orientada à objetos)
 - PHP - Hypertext Preprocessor (préprocessador de hipertexto)
 - REST - Representacional State Transfer (transferência de estado representativo)
@@ -42,8 +43,7 @@ O material será subdividido em três níveis.
 ## Diversos
 
 - Algoritmo - é uma linguagem formal que especifica um conjunto de instruções e regras utilizadas para gerar programas (softwares). Esse software pode ser desenvolvido para rodar via Desktop, Web e via Mobile (aplicativos).
-
-  
+ 
 - Back-end - é a camada de programação que fica nos bastidores, no banco de dados.
 
 - Biblioteca - é um conjunto de códigos, funções com inúmeros recursos onde você vai carregar só aquele que te interessa/precisa. É uma ferramenta para o seu projeto. Você pode utilizar várias bibliotecas para resolver problemas pontuais no seu código.
@@ -56,13 +56,12 @@ O material será subdividido em três níveis.
   
 - Compilador - é um programa de sistema que traduz um programa descrito em uma linguagem de alto nível para um programa equivalente em código de máquina para um processador.
   
-  - Containers - é uma unidade padrão de software que empacota o código e todas as suas dependências para que o aplicativo seja executado de maneira rápida e confiável de um ambiente de computação para outro.
+- Containers - é uma unidade padrão de software que empacota o código e todas as suas dependências para que o aplicativo seja executado de maneira rápida e confiável de um ambiente de computação para outro.
 
 - Deploy - implantar, disponibilizar para uso.
   
 - DevOps - cultura de automatização de processos de infra e desenvolvimento.
-
-  
+ 
 - Design Pattern - são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. 
 
 - Documentação - é um texto escrito que acompanha o software e geralmente explica como utilizá-lo.
@@ -185,8 +184,8 @@ O material será subdividido em três níveis.
 
    - **Bootstrap** é um framework desenvolvido pelo Twitter, que traz consigo características bem definidas de inicialização rápida, ou seja, possuem estilos predefinidos (prontos). Com a utilização do Bootstrap é possível a criação de sites responsivos, que são aqueles que se adaptam ao tamanho da tela que estará sendo utilizada pelo usuário.
    - **Foundation** é um framework que possui como forte característica sua responsividade, sem a necessidade de adicionar classes, facilitando assim a criação de sites, aplicativos e muito mais.  
-   -  **MaterializeCSS** - facilita a criação de interfaces dentro do padrão do material design feito pela Google, que tem como intuito de unificar a experiência do usuário na usabilidade dos seus softwares seja em smartphones, desktops ou tablets.
-   -  **Semantic UI** utiliza as tecnologias jQuery e LESS, tornando a criação de aplicações com o HTML conciso, o JavaScript intuitivo e um debug simplificado.
+   - **MaterializeCSS** - facilita a criação de interfaces dentro do padrão do material design feito pela Google, que tem como intuito de unificar a experiência do usuário na usabilidade dos seus softwares seja em smartphones, desktops ou tablets.
+   - **Semantic UI** utiliza as tecnologias jQuery e LESS, tornando a criação de aplicações com o HTML conciso, o JavaScript intuitivo e um debug simplificado.
  
 **Golang** - é uma linguagem de programação de código aberto que facilita a criação de software simples , confiável e eficiente. Foi desenvolvido por uma equipe do Google.
 
@@ -228,7 +227,6 @@ O material será subdividido em três níveis.
 
 #### Frameworks
  - **Hanami (ex Lotus )** - A Lotus recentemente mudou seu nome para Hanami, eis o motivo . O objetivo é trazer de volta a programação orientada a objetos para o desenvolvimento da Web, aproveitando uma API estável, DSL mínimo e objetos simples.
- - 
  - **Padrino** -  é um framework criado na biblioteca da web de Sinatra . Essa estrutura foi criada para tornar mais fácil e divertido codificar aplicativos da Web mais avançados, mantendo a filosofia do Sinatra.
  - **NYNY** - é um framework despretensioso, tem todo o material essencial para rodar, mas nada mais. Seu aplicativo é a estrutura. No entanto, é trivial estender o NYNY por meio de sua interface de extensão .
  - **Ruby on Rails** - Ele foi desenvolvido para facilitar a programação de aplicativos da Web, fazendo suposições sobre o que todo desenvolvedor precisa para começar. Ele permite que você escreva menos código enquanto realiza mais do que muitas outras linguagens e estruturas.
