@@ -1,4 +1,4 @@
-# Glossário para IT Recruiters
+# **Glossário para IT Recruiters**
 
 Olá! O objetivo deste glossário é contribuir para que os profissionais da área de recrutamento possam se familiarizar com termos técnicos da área de TI.
 
@@ -9,8 +9,7 @@ O material será subdividido em três níveis.
 2. Diversos
 3. Tecnologias
    
-
-## Abreviações, acrônimos e siglas
+# **Abreviações, acrônimos e siglas**
 
 - API - Application Programming Interface (interface de programação de aplicativos)
 - BD - Banco de dados
@@ -37,9 +36,12 @@ O material será subdividido em três níveis.
 - UI - User interface (interface do usuário)
 - UX - User experience (experiência do usuário)
 - VSC - Visual Studio Code (editor de texto)
+- MD - Markdown linguagem para adicionar elementos de formatação a documentos de texto sem formatação.
+- B2B - (Business to Business) é a expressão utilizada para indicar operações entre empresas.
+- B2C - (Business to Customer) é a expressão utilizada para indicar operações entre empresa e consumidor final.
+- BI - Business Intelligence é um software para visualização de indicadores de negócios.
 
-
-## Diversos
+# **Termos Diversos**
 
 - Algoritmo - é uma linguagem formal que especifica um conjunto de instruções e regras utilizadas para gerar programas (softwares). Esse software pode ser desenvolvido para rodar via Desktop, Web e via Mobile (aplicativos).
 
@@ -59,9 +61,8 @@ O material será subdividido em três níveis.
   - Containers - é uma unidade padrão de software que empacota o código e todas as suas dependências para que o aplicativo seja executado de maneira rápida e confiável de um ambiente de computação para outro.
 
 - Deploy - implantar, disponibilizar para uso.
-  
-- DevOps - cultura de automatização de processos de infra e desenvolvimento.
 
+- DEVOPS - Derivada da junção entre Desenvolvedor e Operações, é uma cultura de automatização de processos que busca maximizar os resultados das equipes de TI.
   
 - Design Pattern - são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. 
 
@@ -106,7 +107,7 @@ O material será subdividido em três níveis.
 - Web Assembly -  é um padrão aberto que define um formato de código binário portátil para programas executáveis ​​e uma linguagem de montagem de texto correspondente, bem como interfaces para facilitar as interações entre esses programas e seu ambiente host
 
 
-## Tecnologias
+# **Tecnologias**
 
 **Assembly** -  é uma linguagem de programação de baixo nível. 
 
@@ -124,7 +125,8 @@ O material será subdividido em três níveis.
 **F#** -  é uma linguagem de programação funcional de plataforma aberta, código aberto para .NET. Ele também inclui programação orientada a objetos e imperativa.
 
 **Java** - é uma tecnologia usada para desenvolver aplicações que tornam a Web mais divertida e útil.
- #### **Frameworks Java**
+
+# **Frameworks Java**
   
 - **Struts (J2EE)** - um dos frameworks mais usados em ambientes corporativos para construção de aplicações web. Usa o modelo MVC e caracterizado por uma camada de controle com uso de J2EE e XML.
  - **JavaServer Faces (J2EE)** - baseado em tecnologia de servlets e JSP, pode ser usado como uma opção ao Struts.
@@ -143,7 +145,7 @@ O material será subdividido em três níveis.
 **JavaScript** - é uma linguagem de programação utilizada principalmente em páginas web. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
 
-#### Biblioteca
+# **Bibliotecas**
  - **Algolia Places** - é uma biblioteca JavaScript que o ajudará a preencher automaticamente formulários e é especializada em endereços.
  -  **Anime.js** -  é uma biblioteca JavaScript flexível que pode ajudá-lo a adicionar alguns traços de movimento ao seu site.
  -  **Bideo.js** -  facilita a adição de um plano de fundo de vídeo que fica bem em todos os tamanhos de tela e dimensiona muito bem. 
@@ -166,7 +168,7 @@ O material será subdividido em três níveis.
  - **Three.js** é uma biblioteca focada em design 3D.
  - **Voca** - é uma biblioteca que facilita a manipulaçaõ de sequências de caracteres em JavaScript.
 
-#### Framework
+# **Framework JavaScript**
 
  - **Aurelia** - foi projetado para desenvolvimento na Web, dispositivos móveis e computadores. Ele foi desenvolvido a partir de vários módulos JavaScript que podem ajudá-lo a projetar e criar aplicativos bonitos com facilidade.
  - **Angular** - foi criado para otimizar seu fluxo de trabalho, especialmente se você estiver trabalhando para fins de plataforma cruzada.
@@ -176,12 +178,14 @@ O material será subdividido em três níveis.
  - **Next.js** -  ajuda a criar aplicativos com JavaScript e a reagir de maneira simples e personalizável. Inclui recursos como divisão automática de código, roteamento do lado do cliente e a capacidade de implementar com o Express ou outros servidores HTTP Node.js.
  - **Vue.js** - é essencial para a criação de excelentes interfaces de usuário e, se você já conhece o HTML, CSS e JavaScript, poderá começar a criar as coisas rapidamente! A biblioteca principal é focada na camada de visualização, por isso é ótima para emparelhar com outras bibliotecas e projetos ou simplesmente ativar aplicativos de página única.
  - **Webix** - focado em criar uma interface do usuário rica com apenas algumas linhas de código
-#### Ambientes de execução
+
+  # Ambientes de execução
    
  **HTML** - linguagem de marcação
 
  **CSS** -  Linguagem de estilização
-  #### Frameworks 
+  
+  # **Frameworks para construção de interfaces responsivas**
 
    - **Bootstrap** é um framework desenvolvido pelo Twitter, que traz consigo características bem definidas de inicialização rápida, ou seja, possuem estilos predefinidos (prontos). Com a utilização do Bootstrap é possível a criação de sites responsivos, que são aqueles que se adaptam ao tamanho da tela que estará sendo utilizada pelo usuário.
    - **Foundation** é um framework que possui como forte característica sua responsividade, sem a necessidade de adicionar classes, facilitando assim a criação de sites, aplicativos e muito mais.  
@@ -193,11 +197,11 @@ O material será subdividido em três níveis.
 **Lua** - é uma linguagem de programação poderosa, eficiente e leve, projetada para estender aplicações. Ela permite programação procedural, programação orientada a objetos, programação funcional, programação orientada a dados e descrição de dados.
 
 **PHP** - é uma linguagem de script open source de uso geral, muito utilizada, e especialmente adequada para o desenvolvimento web e que pode ser embutida dentro do HTML.
-#### Framework
+# **Framework PHP** #
  - **CakePHP** -  É uma estrutura moderna e é adequada para aplicativos da web comerciais. Validação de formulário, prevenção de injeção de SQL, boa documentação, proteção contra falsificação de solicitação entre sites (CSRF), prevenção de scripts entre sites (XSS) são recursos imbatíveis do CakePHP.
  - **Codeigniter** - é um dos frameworks mais antigos, mas é simples e poderoso. Ele pode ser facilmente instalado e requer configuração mínima do usuário. Funciona perfeitamente em quase todas as plataformas de hospedagem compartilhada e dedicada.
  - **FuelPHP** - é uma estrutura PHP modular, extensível e flexível. A estrutura de pilha completa suporta o padrão MVC, bem como sua versão evoluída HMVC (Model Hierarchical Model-View-Controller) no nível da arquitetura. Ele soluciona problemas de segurança, fornecendo recursos como filtragem de entrada e URI e codificação de saída. Ele vem com sua própria estrutura de autenticação, com muitos outros recursos sofisticados e com boa documentação.
- - **Laravel** -  O Laravel possui muitos recursos que possibilitam o rápido desenvolvimento de aplicatções.
+ - **Laravel** -  O Laravel é um poderoso framework MVC PHP, projetado para desenvolvedores que precisam de um kit de ferramentas simples e elegante para criar aplicativos da Web com todos os recursos.
  - **Phalcon** - difere comparativamente com outros frameworks PHP, pois é baseado no estilo de codificação C e C ++. Como o Phalcon é entregue como uma extensão C, sua arquitetura é otimizada em níveis baixos, o que reduz significativamente a sobrecarga típica de aplicativos baseados em MVC. O Phalcon é carregado com recursos excepcionais, como gerenciamento de ativos, carregador automático universal, tradução, cache, segurança e muito mais.
  - **PHPixie** - Implementa o padrão de design do HMVC semelhante ao FuelPHP e é construído usando componentes independentes que podem ser usados ​​sem a própria estrutura. 
  - **Simply** - é usada para desenvolver APIs e serviços RESTful. Apesar de ter um design minimalista, o Slim possui recursos avançados, como cache HTTP do lado do cliente, roteamento de sessão e cookie, roteamento de URL e suporte para mensagens flash em solicitações HTTP. É excelente para pequenas aplicações web onde uma estrutura PHP de pilha completa não é realmente necessária.
@@ -208,7 +212,7 @@ O material será subdividido em três níveis.
 
 **Python** - é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
-#### Frameworks
+# **Frameworks Python**#
 
  - **Bottle** - É um framework leve e fácil de usar, geralmente usada para criar pequenos aplicativos da web. Ele cria um único arquivo de origem de cada projeto ou aplicativo. Não possui outra dependência além da biblioteca padrão do Python.
  - **CherryPy** é umframework Python de código aberto orientada a objetos . Remi Delon é conhecido como o fundador do projeto CherryPy. A estrutura CherryPy é amplamente implementada pelos desenvolvedores para criar aplicativos da Web Python. Possui seu próprio servidor web multiencadeado.
@@ -226,7 +230,7 @@ O material será subdividido em três níveis.
 
 **Ruby** - é uma linguagem de programação interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático.
 
-#### Frameworks
+# **Frameworks **
  - **Hanami (ex Lotus )** - A Lotus recentemente mudou seu nome para Hanami, eis o motivo . O objetivo é trazer de volta a programação orientada a objetos para o desenvolvimento da Web, aproveitando uma API estável, DSL mínimo e objetos simples.
  - 
  - **Padrino** -  é um framework criado na biblioteca da web de Sinatra . Essa estrutura foi criada para tornar mais fácil e divertido codificar aplicativos da Web mais avançados, mantendo a filosofia do Sinatra.
@@ -244,6 +248,11 @@ Com o .NET, você pode usar vários idiomas, editores e bibliotecas para criar p
 - O **.NET Framework** oferece suporte a sites, serviços, aplicativos da área de trabalho e muito mais no Windows.
 
 - **Xamarin / Mono** é uma implementação .NET para executar aplicativos em todos os principais sistemas operacionais móveis.
+
+# **Plataforma de serviços em nuvem**
+- Amazon Web Services (AWS)
+- Google Cloud
+- Microsoft Azure
 
 
    
