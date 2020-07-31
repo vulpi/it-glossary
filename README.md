@@ -28,7 +28,6 @@ O material será subdividido em três níveis.
 - JS - JavaScript 
 - LESS - Leaner Style Sheets (linguagem de folhas de estilo dinâmica)
 - Lib - Library (biblioteca)
-- OOP - Object-oriented programming (programação orientada à objetos)
 - PHP - Hypertext Preprocessor (préprocessador de hipertexto)
 - REST - Representacional State Transfer (transferência de estado representativo)
 - RESTFUL - é a aplicação dos padrões REST.
@@ -104,6 +103,12 @@ O material será subdividido em três níveis.
 - Sistema Monolítico - é um termo oriundo dos estudos referentes a sistemas operacionais, que designa o modelo em que o sistema operacional é codificado por via de uma coleção de procedimentos, onde é permitido a qualquer um deles em qualquer parte do programa “chamar” outro procedimento.
 
 - Sistema Operacional - é um programa ou um conjunto de programas cuja função é gerenciar os recursos do sistema, fornecendo uma interface entre o computador e o usuário.
+
+- SQL:  Structured Query Language, ou Linguagem de Consulta Estruturada ou SQL, é a linguagem de pesquisa declarativa padrão para banco de dados relacional.
+
+- SQL Server: Microsoft SQL Server é um sistema gerenciador de Banco de dados relacional desenvolvido pela Sybase em parceria com a Microsoft.
+
+- MySQL: MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation.
   
 - Teste automatizado - é o uso de um software para controlar a execução do teste de software, comparando os resultados esperados com os resultados reais.
   
@@ -164,6 +169,7 @@ O material será subdividido em três níveis.
  -  **Granim.js** é uma pequena biblioteca JavaScript é perfeita para adicionar gradientes fluidos e interativos. 
  - **Multiple.js** - permite que você compartilhe uma imagem de plano de fundo entre vários elementos usando CSS, o que cria um efeito visual realmente interessante.
  - **Omniscient** - é uma biblioteca JavaScript, mas também é uma maneira de pensar em criar projetos. Pense em um componente onisciente como um componente React sem estado, mas um pouco mais otimizado e com mais algumas opções
+ - **Pandas** - é uma biblioteca de software criada para a linguagem Python, para manipulação e análise de dados.
  - **Parsley**  - concentra-se na validação de formulário. Também funciona maravilhosamente com o Garlic , a biblioteca JavaScript que mantém os dados dos campos do formulário até o envio.
  - **Popper.js** - esta biblioteca JavaScript o ajudará a criar poppers deliciosos no seu site. Se você está se perguntando o que é um popper, pense nele como um pequeno balão de pensamento saindo de um elemento! O Popper.js oferece maneiras fantásticas de organizá-los, atê-los aos elementos e mantê-los funcionando sem problemas em qualquer tamanho de tela.
  - **Premonish** - é uma biblioteca JavaScript que prevê com que elemento um usuário irá interagir em seguida, com base no movimento do mouse. 
