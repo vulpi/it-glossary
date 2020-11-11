@@ -26,12 +26,14 @@ O material será subdividido em três níveis.
 - IA - Intelligent Artificial (inteligência artificial)
 - GCP - Google Cloud Plataform
 - JS - JavaScript 
+- TS - TypeScript
 - LESS - Leaner Style Sheets (linguagem de folhas de estilo dinâmica)
 - Lib - Library (biblioteca)
 - OOP - Object-oriented programming (programação orientada à objetos)
 - PHP - Hypertext Preprocessor (préprocessador de hipertexto)
 - REST - Representacional State Transfer (transferência de estado representativo)
 - RESTFUL - é a aplicação dos padrões REST.
+- AWS - Amazon Web Services
 - SAAS - Software as a service (software como serviço)
 - SASS - Syntactically Awesome Style Sheets (folhas de estilo sintaticamente incríveis)
 - SCSS- Sassy CSS
